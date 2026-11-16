@@ -1,0 +1,89 @@
+{
+  "count": 12,
+  "assets": [
+    {
+      "file": "campaign-beauty-natural.jpg",
+      "width": 1792,
+      "height": 2400,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "campaign-beauty-xiis.jpg",
+      "width": 896,
+      "height": 1200,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "campaign-burger.jpg",
+      "width": 1792,
+      "height": 2400,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "campaign-dieta.jpg",
+      "width": 1792,
+      "height": 2400,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "campaign-estampei.jpg",
+      "width": 896,
+      "height": 1200,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "campaign-iced-coffee.jpg",
+      "width": 896,
+      "height": 1200,
+      "format": "JPEG",
+      "mode": "RGB"
+    },
+    {
+      "file": "estampei-kit.png",
+      "width": 976,
+      "height": 1079,
+      "format": "PNG",
+      "mode": "RGBA"
+    },
+    {
+      "file": "ghostosura-kit.png",
+      "width": 1920,
+      "height": 2234,
+      "format": "PNG",
+      "mode": "RGBA"
+    },
+    {
+      "file": "la-oferenda-kit.png",
+      "width": 4184,
+      "height": 2803,
+      "format": "PNG",
+      "mode": "RGBA"
+    },
+    {
+      "file": "la-oferenda-logo.png",
+      "width": 404,
+      "height": 316,
+      "format": "PNG",
+      "mode": "RGB"
+    },
+    {
+      "file": "logos-archive.png",
+      "width": 4184,
+      "height": 2803,
+      "format": "PNG",
+      "mode": "RGBA"
+    },
+    {
+      "file": "nicolas-portrait.webp",
+      "width": 1050,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB"
+    }
+  ]
+}
